@@ -1,20 +1,52 @@
 ---
-## Author
+## Front matter
+lang: ru-RU
+title: "Лабораторная работа №2. Задачи:Основные модели"
+subtitle:  "Имитационное моделирование"
 author:
-  name: БАПТИШТА МАТЕУЖ АНДРЕ
-  email: ruikindas@gmail.com
-  affiliation:
-    - name: Российский университет дружбы народов
-      country: Российская Федерация
-      postal-code: 117198
-      city: Москва
-      address: ул. Миклухо-Маклая, д. 6
+  - Баптишта Матеуж
+institute:
+  - Группа НФИбд-01-2026
+  - Российский университет дружбы народов, Москва, Россия
+date: 06 марта 2026
 
-## Title
-title: "Отчёт по лабораторной работе №2"
-subtitle: "Имитационное моделирование"
-license: "CC BY"
+## i18n babel
+babel-lang: russian
+babel-otherlangs: english
+
+## Formatting pdf
+toc: false
+toc-title: Содержание
+slide_level: 2
+aspectratio: 169
+section-titles: true
+theme: metropolis
+header-includes:
+ - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
+ - '\makeatletter'
+ - '\beamer@ignorenonframefalse'
+ - '\makeatother'
 ---
+
+# Информация
+
+## Докладчик
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+
+  * Ганина Таисия Сергеевна
+  * Студентка 3го курса, группа НФИбд-01-22
+  * Фундаментальная информатика и информационные технологии
+  * Российский университет дружбы народов
+![](image/100.jpg)
+:::
+::: {.column width="30%"}
+
+:::
+::::::::::::::
+
+# Вводная часть
 
 # Цель работы
 
